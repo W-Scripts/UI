@@ -598,7 +598,7 @@ local function runLoadingSequence()
 		end)
 		
 		discordButton.MouseButton1Click:Connect(function()
-			local inviteLink = "https://discord.gg/ZmqJrs3TM8"
+			local inviteLink = "https://discord.gg/6wFCr9P4Zr"
 			
 			pcall(function()
 				setclipboard(inviteLink)
